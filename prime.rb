@@ -4,7 +4,7 @@ def prime?(int)
   end
 
 for i in 2..int do
-  if int % i == 0
+  if int % i = 0
     false
     end
     true
